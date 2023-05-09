@@ -1,4 +1,4 @@
-var url="http://localhost:3300/api/animes";
+var url=https:"https://animesmysql-service-marlenejb.cloud.okteto.net/";
 
 function postanime(){
     console.log(url);
